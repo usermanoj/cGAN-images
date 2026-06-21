@@ -1,0 +1,6 @@
+tensorflow>=2.16
+tensorflow-datasets>=4.9
+matplotlib>=3.8
+numpy>=1.26
+ipykernel>=6.29
+importlib_resources>=6.4
